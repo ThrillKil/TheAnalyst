@@ -1,0 +1,10 @@
+Starting Nmap 7.70 ( https://nmap.org ) at 2019-10-12 00:58 IST
+Nmap scan report for del03s14-in-f14.1e100.net (172.217.166.238)
+Host is up (0.051s latency).
+Not shown: 97 filtered ports
+PORT    STATE  SERVICE
+80/tcp  open   http
+113/tcp closed ident
+443/tcp open   https
+
+Nmap done: 1 IP address (1 host up) scanned in 2.92 seconds
